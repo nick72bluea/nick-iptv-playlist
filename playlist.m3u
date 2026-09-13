@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1955-home" tvg-name="1955 (Home)" group-title="Movies",1955 (Home)
-http://192.168.1.165:32400/library/parts/210/dinner party/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
+http://192.168.1.165:32400/library/parts/210/589b7beeaa34b/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
 #EXTINF:-1 tvg-id="1955-remote" tvg-name="1955 (Remote)" group-title="Movies",1955 (Remote)
-http://86.173.155.79:21249/library/parts/210/dinner party/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
+http://86.173.155.79:21249/library/parts/210/589b7beeaa34b/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
