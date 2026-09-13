@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="1955-home" tvg-name="1955 (Home)" group-title="Movies",1955 (Home)
 http://192.168.1.165:32400/library/parts/210/1789288754/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
 #EXTINF:-1 tvg-id="1955-remote" tvg-name="1955 (Remote)" group-title="Movies",1955 (Remote)
-https://86-173-155-79.55e5c559bb8a4be4a483388716944d3f.plex.direct:21249/library/parts/210/1789288754/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
+http://86-173-155-79.55e5c559bb8a4be4a483388716944d3f.plex.direct:21249/library/parts/210/1789288754/file.mp4?X-Plex-Token=mnJNyfPfWzQeRsMfioQ7
